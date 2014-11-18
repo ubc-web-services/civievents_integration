@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Civievents Integration feature.
+ */
+
+include_once 'civievents_integration.features.inc';
